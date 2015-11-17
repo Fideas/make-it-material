@@ -257,4 +257,9 @@
         <item name="android:colorControlHighlight">?attr/colorControlHighlight</item>
         <item name="android:colorButtonNormal">?attr/colorButtonNormal</item>
     </style>
+    <!-- From: file:/D:/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/values-v21/styles.xml -->
+    <eat-comment/>
+    <style name="Theme.Bacon.Detail">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
 </resources>
