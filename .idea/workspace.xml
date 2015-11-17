@@ -24,21 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/XYZReader/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.54382825">
+              <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemoteEndpointUtil.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RemoteEndpointUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/remote/RemoteEndpointUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.7974138">
-              <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -424,14 +424,19 @@
                 <option name="name" value="preReleaseBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:appcompat-v7:22.0.0" />
+                <option name="description" value="Prepare com.android.support:appcompat-v7:22.2.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportAppcompatV72200Library" />
+                <option name="name" value="prepareComAndroidSupportAppcompatV72220Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.android.support:cardview-v7:22.0.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareComAndroidSupportCardviewV72200Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:design:22.2.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportDesign2220Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.android.support:palette-v7:22.0.0" />
@@ -449,9 +454,9 @@
                 <option name="name" value="prepareComAndroidSupportSupportV132200Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-v4:22.0.0" />
+                <option name="description" value="Prepare com.android.support:support-v4:22.2.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportSupportV42200Library" />
+                <option name="name" value="prepareComAndroidSupportSupportV42220Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -903,14 +908,19 @@
                 <option name="name" value="preReleaseBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:appcompat-v7:22.0.0" />
+                <option name="description" value="Prepare com.android.support:appcompat-v7:22.2.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/XYZReader" />
-                <option name="name" value="prepareComAndroidSupportAppcompatV72200Library" />
+                <option name="name" value="prepareComAndroidSupportAppcompatV72220Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.android.support:cardview-v7:22.0.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/XYZReader" />
                 <option name="name" value="prepareComAndroidSupportCardviewV72200Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:design:22.2.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/XYZReader" />
+                <option name="name" value="prepareComAndroidSupportDesign2220Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.android.support:palette-v7:22.0.0" />
@@ -928,9 +938,9 @@
                 <option name="name" value="prepareComAndroidSupportSupportV132200Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-v4:22.0.0" />
+                <option name="description" value="Prepare com.android.support:support-v4:22.2.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/XYZReader" />
-                <option name="name" value="prepareComAndroidSupportSupportV42200Library" />
+                <option name="name" value="prepareComAndroidSupportSupportV42220Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/XYZReader" />
@@ -1035,7 +1045,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="D:\AndroidStudioProjects\xyzreader" value="4306729890908" />
+        <entry key="D:\AndroidStudioProjects\xyzreader" value="4306730862259" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1057,17 +1067,18 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/support-v4/22.0.0/support-v4-22.0.0.aar" />
                             <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/support-v13/22.0.0/support-v13-22.0.0.aar" />
-                            <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/22.0.0/appcompat-v7-22.0.0.aar" />
                             <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/palette-v7/22.0.0/palette-v7-22.0.0.aar" />
                             <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/recyclerview-v7/22.0.0/recyclerview-v7-22.0.0.aar" />
                             <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/cardview-v7/22.0.0/cardview-v7-22.0.0.aar" />
+                            <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/design/22.2.0/design-22.2.0.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/cd4ddf1fb4ad84ea5d67ee3b386aea25f02ea096/okhttp-2.5.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar" />
-                            <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/fb6ec0fbaa0229088b0d3dfe3b1f9d24add3e775/okio-1.6.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar" />
+                            <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/22.2.0/appcompat-v7-22.2.0.aar" />
+                            <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/support-v4/22.2.0/support-v4-22.2.0.aar" />
+                            <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar" />
                             <option value="$MODULE_DIR$/libs/volley.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/1.1.0/gradle-1.1.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/1.1.0/gradle-1.1.0.jar" />
@@ -1268,8 +1279,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/XYZReader/build.gradle" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/remote/RemoteEndpointUtil.java" />
+        <option value="$PROJECT_DIR$/XYZReader/build.gradle" />
       </list>
     </option>
   </component>
@@ -1506,7 +1517,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34341636" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1515,14 +1526,14 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.55706984" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.55706984" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.51805335" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21785174" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -1545,18 +1556,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/XYZReader/build.gradle">
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/remote/RemoteEndpointUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/remote/RemoteEndpointUtil.java">
+    <entry file="file://$PROJECT_DIR$/XYZReader/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.7974138">
-          <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.54382825">
+          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
           <folding />
         </state>
       </provider>
