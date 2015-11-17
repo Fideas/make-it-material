@@ -259,7 +259,7 @@
     </style>
     <!-- From: file:/D:/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/values-v21/styles.xml -->
     <eat-comment/>
-    <style name="Theme.Bacon.Detail">
+    <style name="Theme.Bacon.Detail" parent="@style/Theme.AppCompat.Light.NoActionBar">
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
 </resources>
