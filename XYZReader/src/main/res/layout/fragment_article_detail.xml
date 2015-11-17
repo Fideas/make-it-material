@@ -21,12 +21,13 @@
                 <!--suppress AndroidLintContentDescription -->
                 <ImageView
                     android:id="@+id/photo"
-                    android:layout_width="100dp"
-                    android:layout_height="100dp" />
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/detail_photo_height"
+                    android:scaleType="centerCrop"/>
 
                 <View
                     android:layout_width="match_parent"
-                    android:layout_height="112dp"
+                    android:layout_height="match_parent"
                     android:background="@drawable/photo_background_protection" />
 
             </FrameLayout>
@@ -37,9 +38,9 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="@dimen/detail_card_top_margin"
                 android:background="#fff"
-                app:elevation="2dp"
                 android:maxWidth="@dimen/detail_card_max_width"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                app:elevation="2dp">
 
                 <LinearLayout
                     android:id="@+id/meta_bar"
@@ -97,8 +98,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|right|end"
         android:layout_marginBottom="@dimen/fab_margin"
-        android:layout_marginRight="@dimen/fab_margin"
         android:layout_marginEnd="@dimen/fab_margin"
+        android:layout_marginRight="@dimen/fab_margin"
         android:contentDescription="@string/action_share"
         android:src="@drawable/ic_share"
         app:elevation="@dimen/rested_fab_elevation"
