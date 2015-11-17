@@ -42,6 +42,11 @@
     <color name="cardview_light_background">#FFFAFAFA</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
+    <!-- From: file:/D:/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="deep_orange_100">#FFCCBC</color>
+    <color name="deep_orange_500">#FF5722</color>
+    <color name="deep_orange_700">#E64A19</color>
     <!-- From: file:/D:/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
@@ -106,6 +111,7 @@
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <!-- From: file:/D:/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/values/colors.xml -->
     <eat-comment/>
+    <color name="teal_a700">#00BFA5</color>
     <color name="theme_accent">#04561A</color>
     <color name="theme_primary">#04561A</color>
     <color name="theme_primary_dark">#04561A</color>
@@ -1569,7 +1575,11 @@
     </style>
     <!-- From: file:/D:/AndroidStudioProjects/xyzreader/XYZReader/src/main/res/values/styles.xml -->
     <eat-comment/>
-    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar"/>
+    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/deep_orange_500</item>
+        <item name="colorPrimaryDark">@color/deep_orange_700</item>
+        <item name="colorAccent">@color/teal_a700</item>
+    </style>
     <style name="Theme.Bacon.Detail" parent="@style/Theme.AppCompat.Light.NoActionBar"/>
     <!-- From: file:/D:/AndroidStudioProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml -->
     <eat-comment/>
