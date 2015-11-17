@@ -33,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/XYZReader/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+              <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -55,24 +55,83 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5538847">
-              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+            <state vertical-scroll-proportion="-0.9283582">
+              <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
               <folding>
-                <element signature="e#485#518#0" expanded="true" />
-                <element signature="e#554#587#0" expanded="true" />
-                <element signature="e#910#928#0" expanded="true" />
-                <element signature="e#1507#1532#0" expanded="true" />
-                <element signature="e#1566#1591#0" expanded="true" />
+                <element signature="e#644#677#0" expanded="true" />
+                <element signature="e#717#750#0" expanded="true" />
+                <element signature="e#829#854#0" expanded="true" />
+                <element signature="e#1097#1115#0" expanded="true" />
+                <element signature="e#1752#1777#0" expanded="true" />
+                <element signature="e#1811#1836#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/AndroidManifest.xml">
+      <file leaf-file-name="dimens.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values-sw600dp/dimens.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_item_article.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.3448277">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+              <folding>
+                <element signature="e#505#540#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fragment_article_detail.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="28.310345">
+              <caret line="36" column="58" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
+              <folding>
+                <element signature="e#1575#1606#0" expanded="true" />
+                <element signature="e#1718#1748#0" expanded="true" />
+                <element signature="e#2088#2124#0" expanded="true" />
+                <element signature="e#2264#2300#0" expanded="true" />
+                <element signature="e#2341#2375#0" expanded="true" />
+                <element signature="e#2417#2451#0" expanded="true" />
+                <element signature="e#2491#2527#0" expanded="true" />
+                <element signature="e#2975#3019#0" expanded="true" />
+                <element signature="e#3110#3141#0" expanded="true" />
+                <element signature="e#3854#3888#0" expanded="true" />
+                <element signature="e#3936#3970#0" expanded="true" />
+                <element signature="e#4111#4145#0" expanded="true" />
+                <element signature="e#4301#4331#0" expanded="true" />
+                <element signature="e#4741#4760#0" expanded="true" />
+                <element signature="e#4796#4815#0" expanded="true" />
+                <element signature="e#4849#4868#0" expanded="true" />
+                <element signature="e#4904#4926#0" expanded="true" />
+                <element signature="e#4990#5019#0" expanded="true" />
+                <element signature="e#5052#5088#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dimens.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/dimens.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -465,9 +524,9 @@
                 <option name="name" value="preReleaseBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:appcompat-v7:22.2.0" />
+                <option name="description" value="Prepare com.android.support:appcompat-v7:22.2.1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportAppcompatV72220Library" />
+                <option name="name" value="prepareComAndroidSupportAppcompatV72221Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.android.support:cardview-v7:22.0.0" />
@@ -475,9 +534,9 @@
                 <option name="name" value="prepareComAndroidSupportCardviewV72200Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:design:22.2.0" />
+                <option name="description" value="Prepare com.android.support:design:22.2.1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportDesign2220Library" />
+                <option name="name" value="prepareComAndroidSupportDesign2221Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.android.support:palette-v7:22.0.0" />
@@ -495,9 +554,9 @@
                 <option name="name" value="prepareComAndroidSupportSupportV132200Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-v4:22.2.0" />
+                <option name="description" value="Prepare com.android.support:support-v4:22.2.1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportSupportV42220Library" />
+                <option name="name" value="prepareComAndroidSupportSupportV42221Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -949,9 +1008,9 @@
                 <option name="name" value="preReleaseBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:appcompat-v7:22.2.0" />
+                <option name="description" value="Prepare com.android.support:appcompat-v7:22.2.1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/XYZReader" />
-                <option name="name" value="prepareComAndroidSupportAppcompatV72220Library" />
+                <option name="name" value="prepareComAndroidSupportAppcompatV72221Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.android.support:cardview-v7:22.0.0" />
@@ -959,9 +1018,9 @@
                 <option name="name" value="prepareComAndroidSupportCardviewV72200Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:design:22.2.0" />
+                <option name="description" value="Prepare com.android.support:design:22.2.1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/XYZReader" />
-                <option name="name" value="prepareComAndroidSupportDesign2220Library" />
+                <option name="name" value="prepareComAndroidSupportDesign2221Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.android.support:palette-v7:22.0.0" />
@@ -979,9 +1038,9 @@
                 <option name="name" value="prepareComAndroidSupportSupportV132200Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-v4:22.2.0" />
+                <option name="description" value="Prepare com.android.support:support-v4:22.2.1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/XYZReader" />
-                <option name="name" value="prepareComAndroidSupportSupportV42220Library" />
+                <option name="name" value="prepareComAndroidSupportSupportV42221Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/XYZReader" />
@@ -1086,7 +1145,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="D:\AndroidStudioProjects\xyzreader" value="4306730862259" />
+        <entry key="D:\AndroidStudioProjects\xyzreader" value="4306738991320" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1112,14 +1171,14 @@
                             <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/palette-v7/22.0.0/palette-v7-22.0.0.aar" />
                             <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/recyclerview-v7/22.0.0/recyclerview-v7-22.0.0.aar" />
                             <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/cardview-v7/22.0.0/cardview-v7-22.0.0.aar" />
-                            <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/design/22.2.0/design-22.2.0.aar" />
+                            <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/design/22.2.1/design-22.2.1.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/cd4ddf1fb4ad84ea5d67ee3b386aea25f02ea096/okhttp-2.5.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/fb6ec0fbaa0229088b0d3dfe3b1f9d24add3e775/okio-1.6.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar" />
-                            <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/22.2.0/appcompat-v7-22.2.0.aar" />
-                            <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/support-v4/22.2.0/support-v4-22.2.0.aar" />
-                            <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar" />
+                            <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/appcompat-v7/22.2.1/appcompat-v7-22.2.1.aar" />
+                            <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/support-v4/22.2.1/support-v4-22.2.1.aar" />
+                            <option value="D:/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar" />
                             <option value="$MODULE_DIR$/libs/volley.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/1.1.0/gradle-1.1.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/gradle/1.1.0/gradle-1.1.0.jar" />
@@ -1321,11 +1380,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/remote/RemoteEndpointUtil.java" />
-        <option value="$PROJECT_DIR$/XYZReader/build.gradle" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/res/values-v21/styles.xml" />
-        <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml" />
         <option value="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" />
+        <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml" />
+        <option value="$PROJECT_DIR$/XYZReader/build.gradle" />
+        <option value="$PROJECT_DIR$/XYZReader/src/main/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml" />
+        <option value="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml" />
       </list>
     </option>
   </component>
@@ -1403,10 +1465,6 @@
               <option name="myItemId" value="values" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles.xml" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResGroupNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1425,19 +1483,9 @@
               <option name="myItemId" value="values" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="xyzreader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XYZReader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+              <option name="myItemId" value="dimens.xml" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1452,42 +1500,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xyzreader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XYZReader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xyzreader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="xyzreader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XYZReader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -1502,6 +1514,7 @@
     <property name="recentsLimit" value="5" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="TA09300QV8" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_22_x86" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager2.SHOW" value="false" />
   </component>
   <component name="RunManager" selected="Android Application.XYZReader">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -1711,7 +1724,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22316866" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3321976" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1719,7 +1732,8 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45211932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33585477" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49403748" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -1729,7 +1743,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1744,14 +1757,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/XYZReader/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/remote/RemoteEndpointUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.8232758">
@@ -1784,18 +1789,110 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="64" selection-start-line="45" selection-start-column="64" selection-end-line="45" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3852941">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/res/values/values.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39032257">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/values/values.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39032257">
           <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java">
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values-sw600dp/dimens.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="64" selection-start-line="45" selection-start-column="64" selection-end-line="45" selection-end-column="64" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/fragment_article_detail.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="28.310345">
+          <caret line="36" column="58" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
+          <folding>
+            <element signature="e#1575#1606#0" expanded="true" />
+            <element signature="e#1718#1748#0" expanded="true" />
+            <element signature="e#2088#2124#0" expanded="true" />
+            <element signature="e#2264#2300#0" expanded="true" />
+            <element signature="e#2341#2375#0" expanded="true" />
+            <element signature="e#2417#2451#0" expanded="true" />
+            <element signature="e#2491#2527#0" expanded="true" />
+            <element signature="e#2975#3019#0" expanded="true" />
+            <element signature="e#3110#3141#0" expanded="true" />
+            <element signature="e#3854#3888#0" expanded="true" />
+            <element signature="e#3936#3970#0" expanded="true" />
+            <element signature="e#4111#4145#0" expanded="true" />
+            <element signature="e#4301#4331#0" expanded="true" />
+            <element signature="e#4741#4760#0" expanded="true" />
+            <element signature="e#4796#4815#0" expanded="true" />
+            <element signature="e#4849#4868#0" expanded="true" />
+            <element signature="e#4904#4926#0" expanded="true" />
+            <element signature="e#4990#5019#0" expanded="true" />
+            <element signature="e#5052#5088#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.3448277">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="e#505#540#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values/values.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3935484">
+          <caret line="97" column="1277" selection-start-line="97" selection-start-column="1264" selection-end-line="97" selection-end-column="1277" />
           <folding />
         </state>
       </provider>
@@ -1805,14 +1902,15 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5538847">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        <state vertical-scroll-proportion="-0.9283582">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
           <folding>
-            <element signature="e#485#518#0" expanded="true" />
-            <element signature="e#554#587#0" expanded="true" />
-            <element signature="e#910#928#0" expanded="true" />
-            <element signature="e#1507#1532#0" expanded="true" />
-            <element signature="e#1566#1591#0" expanded="true" />
+            <element signature="e#644#677#0" expanded="true" />
+            <element signature="e#717#750#0" expanded="true" />
+            <element signature="e#829#854#0" expanded="true" />
+            <element signature="e#1097#1115#0" expanded="true" />
+            <element signature="e#1752#1777#0" expanded="true" />
+            <element signature="e#1811#1836#0" expanded="true" />
           </folding>
         </state>
       </provider>
